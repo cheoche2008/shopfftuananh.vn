@@ -1,1 +1,153 @@
-# shopfftuananh.vn
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Shop Acc Free Fire</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            padding: 10px 0;
+            color: white;
+            text-align: center;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            background-color: #444;
+        }
+
+        nav ul li {
+            margin: 0 15px;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .login-box {
+            max-width: 400px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px #ccc;
+        }
+
+        .login-box h2 {
+            text-align: center;
+        }
+
+        .login-box input {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+        }
+
+        .facebook-login {
+            background-color: #3b5998;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .acc-list {
+            max-width: 800px;
+            margin: 40px auto;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+        }
+
+        .acc-item {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 5px #ccc;
+        }
+
+        .acc-item h3 {
+            margin: 0 0 10px 0;
+        }
+
+        footer {
+            text-align: center;
+            background: #222;
+            color: white;
+            padding: 15px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Shop Bán Acc Free Fire Uy Tín</h1>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="#">Trang chủ</a></li>
+        <li><a href="#">Mua acc</a></li>
+        <li><a href="#">Nạp thẻ</a></li>
+        <li><a href="#">Vòng quay may mắn</a></li>
+        <li><a href="#">Đăng nhập</a></li>
+        <li><a href="#">Đăng ký</a></li>
+        <li><a href="#">Giftcode</a></li>
+        <li><a href="#">Tin tức</a></li>
+        <li><a href="#">Hỗ trợ</a></li>
+        <li><a href="#">Liên hệ</a></li>
+    </ul>
+</nav>
+
+<div class="login-box">
+    <h2>Đăng nhập tài khoản</h2>
+    <form>
+        <input type="text" placeholder="Tên tài khoản" required>
+        <input type="password" placeholder="Mật khẩu" required>
+        <input type="submit" value="Đăng nhập">
+    </form>
+    <div class="facebook-login">Đăng nhập bằng Facebook</div>
+</div>
+
+<section class="acc-list">
+    <div class="acc-item">
+        <h3>Acc Free Fire #1</h3>
+        <p>Level: 50 | Skin Súng VIP | Giá: 200K</p>
+        <button>Mua ngay</button>
+    </div>
+    <div class="acc-item">
+        <h3>Acc Free Fire #2</h3>
+        <p>Level: 45 | Thẻ Vô Cực | Giá: 150K</p>
+        <button>Mua ngay</button>
+    </div>
+    <div class="acc-item">
+        <h3>Acc Free Fire #3</h3>
+        <p>Level: 60 | Full Pet | Giá: 300K</p>
+        <button>Mua ngay</button>
+    </div>
+    <div class="acc-item">
+        <h3>Acc Free Fire #4</h3>
+        <p>Level: 40 | Skin Súng Huyền Thoại | Giá: 180K</p>
+        <button>Mua ngay</button>
+    </div>
+</section>
+
+<footer>
+    &copy; 2025 Shop Acc Free Fire. All rights reserved.
+</footer>
+
+</body>
+</html>
